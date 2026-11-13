@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: hl7.fhir.se.terminology
-canonical: http://hl7.se/fhir/ig/terminology[D
+canonical: http://hl7.se/fhir/ig/terminology
 name: SETerminology
 # title: Example Title
 # description: Example Implementation Guide for getting started with SUSHI
