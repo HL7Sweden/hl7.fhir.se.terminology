@@ -21,6 +21,8 @@ publisher:
   email: info@hl7.se
 jurisdiction: urn:iso:std:iso:3166#SE
 license: CC0-1.0
+parameters:
+  path-expansion-params: Parameters-exp-params.json
 
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
