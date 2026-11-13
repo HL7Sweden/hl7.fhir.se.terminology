@@ -1,7 +1,7 @@
 CodeSystem:  SOSNYKCS
 Id: sosnyk-code-system
 Title: "SOSNYK Code System"
-Description:  "The National COde System for occupation by the National Board of Health and Welfare"
+Description:  "The National Code System for occupation by the National Board of Health and Welfare"
 // fetched from https://www.socialstyrelsen.se/statistik-och-data/klassifikationer-och-koder/andra-kodverk/sosnyk/
 * ^url = "urn:oid:1.2.752.116.1.3.6"
 * ^version = "2027 Version 1.0"
