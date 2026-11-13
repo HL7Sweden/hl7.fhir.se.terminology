@@ -77,8 +77,13 @@ license: CC0-1.0
 # │ property below.                                                                                │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
-  Home: index.html
-  Artifacts: artifacts.html
+  IG Home: index.html
+  # FAQ: faq.html
+  Code Systems: 2_codesystems.html
+  Value Sets: 3_valuesets.html
+  Artifact Index: artifacts.html
+  Table of Contents: toc.html
+  Download: download.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
